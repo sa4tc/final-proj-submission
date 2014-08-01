@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">projectbd</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="direction_arrays">
+        <item>Right</item>
+        <item>Left</item>
+        <item>Down</item>
+        <item>Up</item>
+        
+    </string-array>
+</resources>
